@@ -1,0 +1,28 @@
+.b1{
+	background-image:url(Pic7.jpg);
+}
+
+.navContainer{
+	max-width: 1000px;
+	position: relative;
+	margin: auto;
+}
+
+.scroll {
+	background-image:url(Pic7.jpg);
+    max-width: 1000px;
+    height: 650px;
+    overflow-y: scroll;
+	overflow-x: hidden;
+	position: relative;
+	margin: auto;
+	white-space: pre;
+}
+
+.pic{
+	max-width: 780px;
+}
+
+.URL{
+	text-align:center;
+}

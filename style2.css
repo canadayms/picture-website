@@ -1,0 +1,31 @@
+.b2{
+	background-image:url(Pic5.jpg);
+}
+
+.navContainer{
+	max-width: 1000px;
+	position: relative;
+	margin: auto;
+}
+
+.mainDiv {
+	background-image:url(Pic7.jpg);
+    max-width: 1000px;
+    height: 650px;
+	position: relative;
+	margin: auto;
+}
+
+.priceHead{
+	position: relative;
+	margin: auto;
+	text-align: center;
+	font-family: "Algerian", fantasy, cursive;
+	font-size: 250%;
+}
+
+.UL{
+	font-size: 150%;
+	font-family: "Bodoni MT", fantasy, cursive;
+	list-style-type: square;
+}

@@ -1,0 +1,24 @@
+.b{
+	background-image:url(Pic4.jpg);
+}
+
+.navContainer{
+	max-width: 1000px;
+	position: relative;
+	margin: auto;
+}
+
+.carousel{
+	max-width: 1000px;
+	position: relative;
+	margin: auto;
+}
+
+
+.credit{
+	text-align: center;
+	position: relative;
+	margin: auto;
+	width: 20%;
+}
+
